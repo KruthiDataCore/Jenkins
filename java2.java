@@ -1,4 +1,6 @@
- public static void main(String[] args) {
+public class QuotientRemainder {
+
+  public static void main(String[] args) {
 
     int dividend = 25, divisor = 4;
 
@@ -8,3 +10,4 @@
     System.out.println("Quotient = " + quotient);
     System.out.println("Remainder = " + remainder);
   }
+}
